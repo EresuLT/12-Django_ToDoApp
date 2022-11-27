@@ -2,7 +2,6 @@
 
 <h1 align="center">ToDo App</h1>
 
-
 <div align="center">
   <h3>
     <a href="https://{your-demo-link.your-domain}">
