@@ -67,8 +67,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
+- Website [@EresuLT](https://github.com/EresuLT})
+- GitHub [@EresuLT](https://github.com/EresuLT})
 
-- Linkedin [@your-linkedin](https://{linkedin.com/your-username})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [@eresul-t](https://www.linkedin.com/in/eresul-t)
